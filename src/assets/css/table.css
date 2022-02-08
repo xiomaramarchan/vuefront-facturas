@@ -1,0 +1,17 @@
+.table-x-y-scroll::-webkit-scrollbar {
+    -webkit-appearance: none;
+}
+
+.table-x-y-scroll::-webkit-scrollbar:horizontal {
+    height: 10px;
+}
+.table-x-y-scroll::-webkit-scrollbar:vertical {
+   width: 10px;
+}
+
+.table-x-y-scroll::-webkit-scrollbar-thumb {
+    background-color:  #00BCD4;
+    border-radius: 20px;
+    border: 2px solid #00BCD4;
+    
+}

@@ -1,0 +1,6 @@
+1- ejecutar el comando: 
+   npm install para instalar las dependencias necesarias
+
+- Configurar en el archivo.env la variable de entorno
+
+  VUE_APP_API_URL = http://localhost/api-facturas/public/api
